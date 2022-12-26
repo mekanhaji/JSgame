@@ -1,5 +1,5 @@
 // Selection of Animation
-playerState = 'bite';
+playerState = 'idle';
 const dropdown = document.getElementById('animations');
 dropdown.addEventListener('change', function(e) {
     playerState = e.target.value;
