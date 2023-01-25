@@ -21,3 +21,9 @@ This Application Uses
 > This Application is currently Hosted By GitHub pages @ (https://mekanhaji.github.io/JSgame/)
 >
 ![image](assets/hosting.png)
+
+---
+Reference
+-
+[![codespace](https://img.youtube.com/vi/D_5T6KMTRb8/0.jpg)](https://www.youtube.com/watch?v=D_5T6KMTRb8)
+[![github pags](https://img.youtube.com/vi/4eMnz8VbgyM/0.jpg)](https://www.youtube.com/watch?v=4eMnz8VbgyM)
